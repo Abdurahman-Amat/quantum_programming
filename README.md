@@ -20,3 +20,5 @@ the inner product of each pair of vectors in higher dimensional vector space map
 Diagonal elements: their values are one, because the inner product of a vector with itself is by definition one. eg. for vector |1> holds , |<1|1>|^2 = 1.0
 Dark points: it is not diificult to see some dark points, if their exact value is zero. Means the corresponding two vectors are orthogonal to each other.  eg. for basis vectors |1>  and |2> holds , |<1|2>|^2 = 0.0 
 
+
+... in progress ...
