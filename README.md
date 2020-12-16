@@ -5,8 +5,12 @@
 Source: https://www.youtube.com/watch?v=OKbcJCUx6xA .
 
 
-<--!
+## Training Result  
+
 <p align="center">
-    <img src="images/traffice_accident.jpg" alt="traffic_accident_img"
-         title="One accident image" width="500 px0" height="350"/>
-  -->
+    <img src="ad-hoc-data_Kernel_Matrix.jpg" alt="kernel matrix"
+         title="QML ad-hoc-data training Kernel Matrix" width="500 px0" height="350"/>  
+    
+    
+    This plot shows the training result of the quantum support machine model / algorithm on the training set of **ad-hoc-dataset**
+    Color strength at each point represents the amplitude of the inner product of each pair of vectors in higher dimensional vector space mapped by the **ZZFeatureMap** quantum circuit from the Qiskit library.  
