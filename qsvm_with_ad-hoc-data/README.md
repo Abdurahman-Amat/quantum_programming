@@ -1,7 +1,7 @@
 # Quantum Support Verctor Machine   
 
 
-_This is NOT a original work. But a **COPY** of this Qiskit example project presented by **Jin-Sung Kim**  
+_This is NOT an original work. But a **COPY** of this Qiskit example project presented by **Jin-Sung Kim**  
 Source: https://www.youtube.com/watch?v=OKbcJCUx6xA ._
 
 
