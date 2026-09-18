@@ -7,5 +7,5 @@ May include:
 
   * Contents related to learn and explore quantum coding and computation   
   * Designing and implementing quantum algorithms not only on quantum simulators, but also on real quantum computers.   
-  * and more ...
+  * & more ...
   
